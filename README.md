@@ -4,7 +4,7 @@ Desired ouput ![2048](https://user-images.githubusercontent.com/84711922/2334725
 
 
 Prerequisites:
-1. Docker in local Machine (daemon is in running start)
+1. Docker in local Machine (daemon is in running state)
 2. AWS account to deploy application in Elastic Bean Stalk
 3. Dockerfile
 
